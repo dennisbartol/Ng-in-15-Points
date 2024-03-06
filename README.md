@@ -32,3 +32,17 @@ To set up Angular development, you need to install Node.js and Angular CLI. Angu
 
 <b>3. Components and Templates:</b></br>
 Components are the building blocks of Angular applications. They consist of a TypeScript class and an HTML template. Here's an example of a simple component:
+
+<code>
+// app.component.ts
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent {
+  title = 'My Angular App';
+}
+</code>
