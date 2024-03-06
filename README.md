@@ -25,7 +25,6 @@ Angular is a frontend framework that allows developers to build dynamic web appl
 
 <b>2. Setting Up Angular Development Environment:</b></br>
 To set up Angular development, you need to install Node.js and Angular CLI. Angular CLI simplifies the process of creating and managing Angular projects. Here's a command to install Angular CLI:
-
 <code>
   npm install -g @angular/cli
 </code>
