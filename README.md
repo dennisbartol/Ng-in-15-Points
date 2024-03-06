@@ -16,3 +16,8 @@
 13. Testing
 14. Deployment
 15. Conclusion
+
+
+
+<b>1. Introduction to Angular:</b></br>
+Angular is a frontend framework that allows developers to build dynamic web applications using TypeScript, a superset of JavaScript. It follows the MVC (Model-View-Controller) architecture and facilitates the development process with its rich set of features.
