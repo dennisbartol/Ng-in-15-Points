@@ -51,3 +51,6 @@ HTML:
 &lt;!-- app.component.html --&gt;
 &lt;h1>{{ title }} &lt;/h1>
 </code>
+
+<b>4. Data Binding:</b>
+Angular provides various types of data binding like interpolation, property binding, event binding, and two-way binding. Here's an example of interpolation:
