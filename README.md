@@ -49,6 +49,6 @@ export class AppComponent {
 
 HTML:</br>
 <code>
-<!- - app.component.html - ->
+<!-- app.component.html -->
 &lt;h1>{{ title }} &lt;/h1>
 </code>
