@@ -65,3 +65,7 @@ Directives are markers on a DOM element that tells Angular to do something with 
 
 <b>6. Services and Dependency Injection:</b></br>
 Services are used to encapsulate reusable logic in Angular. Dependency Injection (DI) is a design pattern in which a class requests dependencies from external sources rather than creating them. Here's an example of a service:
+
+
+<b>7. Routing:</b></br>
+Routing allows navigation between different components in an Angular application. Here's an example of routing configuration:
