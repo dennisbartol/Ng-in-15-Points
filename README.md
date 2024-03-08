@@ -69,3 +69,7 @@ Services are used to encapsulate reusable logic in Angular. Dependency Injection
 
 <b>7. Routing:</b></br>
 Routing allows navigation between different components in an Angular application. Here's an example of routing configuration:
+
+
+<b>8. Forms:</b></br>
+Angular provides two approaches to handling forms: Template-driven forms and Reactive forms. Here's an example of a template-driven form:
