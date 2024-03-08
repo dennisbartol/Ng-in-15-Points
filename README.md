@@ -60,3 +60,8 @@ Angular provides various types of data binding like interpolation, property bind
 
 <b>5. Directives:</b></br>
 Directives are markers on a DOM element that tells Angular to do something with that DOM element. Angular provides built-in directives like ngIf, ngFor, and ngSwitch. Here's an example of ngFor directive:
+
+
+
+<b>6. Services and Dependency Injection:</b></br>
+Services are used to encapsulate reusable logic in Angular. Dependency Injection (DI) is a design pattern in which a class requests dependencies from external sources rather than creating them. Here's an example of a service:
