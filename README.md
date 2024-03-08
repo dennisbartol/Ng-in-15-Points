@@ -73,3 +73,7 @@ Routing allows navigation between different components in an Angular application
 
 <b>8. Forms:</b></br>
 Angular provides two approaches to handling forms: Template-driven forms and Reactive forms. Here's an example of a template-driven form:
+
+
+<b>9. HTTP Client:</b></br>
+Angular HTTP client is used to communicate with a server to fetch or post data. Here's an example of HTTP GET request:
