@@ -81,3 +81,11 @@ Angular HTTP client is used to communicate with a server to fetch or post data. 
 
 <b>10. Observables:</b></br>
 Observables are used extensively in Angular for handling asynchronous operations. Here's an example of using observables:
+
+
+
+<b>11. Intercomponent Communication:<b></br>
+Angular provides various techniques for communication between components such as Input and Output properties, ViewChild, and services.
+
+<b>12. Angular CLI:</b></br>
+Angular CLI is a command-line interface for Angular that helps in creating, managing, and building Angular applications.
