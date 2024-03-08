@@ -54,3 +54,9 @@ HTML:
 
 <b>4. Data Binding:</b></br>
 Angular provides various types of data binding like interpolation, property binding, event binding, and two-way binding. Here's an example of interpolation:
+
+
+
+
+<b>5. Directives:</b></br>
+Directives are markers on a DOM element that tells Angular to do something with that DOM element. Angular provides built-in directives like ngIf, ngFor, and ngSwitch. Here's an example of ngFor directive:
