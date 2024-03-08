@@ -84,7 +84,7 @@ Observables are used extensively in Angular for handling asynchronous operations
 
 
 
-<b>11. Intercomponent Communication:<b></br>
+<b>11. Intercomponent Communication:</b></br>
 Angular provides various techniques for communication between components such as Input and Output properties, ViewChild, and services.
 
 <b>12. Angular CLI:</b></br>
