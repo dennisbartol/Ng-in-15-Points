@@ -89,3 +89,14 @@ Angular provides various techniques for communication between components such as
 
 <b>12. Angular CLI:</b></br>
 Angular CLI is a command-line interface for Angular that helps in creating, managing, and building Angular applications.
+
+<b>13. Testing:</b></br>
+Angular applications can be tested using tools like Jasmine and Karma for unit testing, and Protractor for end-to-end testing.
+
+<b>14. Deployment:</b></br>
+Angular applications can be deployed to various platforms like Firebase, Netlify, or traditional web servers.
+
+<b>15. Conclusion:</b></br>
+Angular is a powerful framework for building modern web applications. Its modular architecture, rich features, and strong community support make it a popular choice for developers.
+
+This summary provides a basic understanding of Angular along with code examples. Further exploration and practice are recommended to gain proficiency in Angular development.
