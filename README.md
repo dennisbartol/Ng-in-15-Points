@@ -77,3 +77,7 @@ Angular provides two approaches to handling forms: Template-driven forms and Rea
 
 <b>9. HTTP Client:</b></br>
 Angular HTTP client is used to communicate with a server to fetch or post data. Here's an example of HTTP GET request:
+
+
+<b>10. Observables:</b></br>
+Observables are used extensively in Angular for handling asynchronous operations. Here's an example of using observables:
