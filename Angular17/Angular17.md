@@ -70,9 +70,23 @@ When the condition is true, your content will be loaded lazily.
 </div>
 </code>
 
+</p>
+
 &nbsp;</br>
 
-
-
+<p>
+<b>4. Improved Server-Side Rendering (SSR)</b>
  
+The Server-Side Rendering (SSR) has undergone a marked improvement in Angular 17. 
+
+The latest version brings forth a stable SSR integration, enabling a host of advantages, including faster build duration, more efficient rendering, improvements in SEO, and better improvements through rendering of HTML to users.
+
+If a developer seeks to initiate a project with ssr, he can do it using the ssr flag. 
+
+
+
+Even if he doesn’t specify the ssr flag, the creation assistant will ask if we want to start the new project using ssr. If he seeks to add ssr to an existing project, he can do so through the command below.
+
+
+What’s more? Angular 17 teases the view transitions API support, guaranteeing smoother animations and an enriched user interface.
 </p>
