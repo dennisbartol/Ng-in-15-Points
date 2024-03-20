@@ -35,7 +35,7 @@ The integration of esbuild dramatically improves the build speed and performance
 
 It’s almost effortless to switch from the traditional build system to esbuild using a simple modification in Angular.json file. Use the following code to do so:
 
-"builder" : "@angular-devkit/build-angular:browser-esbuild"
+<code>"builder" : "@angular-devkit/build-angular:browser-esbuild"</code>
 
 On completing the transition, developers can build business solutions with maximum efficiency and minimum turnaround time. 
 </p>
