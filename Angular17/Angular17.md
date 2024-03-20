@@ -25,7 +25,7 @@ Look at the example below to understand how the @nglf construct makes the code s
 <ul><li>switch</li></ul>
  The @ngSwitch structure allows for a clear code format, simplifying the way we express our conditions—while closely resembling JavaScript. The example below, based on the value of color, should be helpful in understanding the @switch structure better. 
 
-
+&nbsp;</br>
 
 
 <p>
