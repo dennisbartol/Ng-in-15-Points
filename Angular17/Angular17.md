@@ -91,6 +91,7 @@ Even if he doesn’t specify the ssr flag, the creation assistant will ask if we
 What’s more? Angular 17 teases the view transitions API support, guaranteeing smoother animations and an enriched user interface.
 </p>
 
+&nbsp;</br>
 
 <p>
 <b>5. Support for Typescript 5.2</b>
