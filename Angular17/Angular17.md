@@ -17,15 +17,24 @@ Let’s understand the new constructs with some examples:
 <ul><li>if</li></ul>
 Look at the example below to understand how the @nglf construct makes the code structure simpler, clearer, and more expressive—while eliminating the need of using extra tags or the ng-template tag.
 
-Angular 17 New Features
- 
+
 <ul><li>for</li></ul>
  The @ngFor structure brings more clarity and a sense of precision compared to previous versions. In a fundamental addition, it requires the @track property, identical to frameworks like React and Vue, to assign a unique identifier to each time. It’s seen as the right step taken towards enhancing both element identification and the performance graph. 
 
-Angular 17 New Features
- 
+
 <ul><li>switch</li></ul>
  The @ngSwitch structure allows for a clear code format, simplifying the way we express our conditions—while closely resembling JavaScript. The example below, based on the value of color, should be helpful in understanding the @switch structure better. 
 
-Angular 17 New Features
+
+
+
+
+<b>2. Improved performance with esbuild</b>
  
+The integration of esbuild dramatically improves the build speed and performance posture of Angular Development Services. A study of applications running on Angular 17 demonstrated an improvement of over 67% in build speed, making the latest version an even bigger drawcard for developers prioritizing efficiency. 
+
+It’s almost effortless to switch from the traditional build system to esbuild using a simple modification in Angular.json file. Use the following code to do so:
+
+"builder" : "@angular-devkit/build-angular:browser-esbuild"
+
+On completing the transition, developers can build business solutions with maximum efficiency and minimum turnaround time. 
