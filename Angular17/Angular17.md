@@ -126,3 +126,33 @@ Let’s explore additional Angular 17 New Features in this comprehensive roundup
 <li>A diagnostic now alerts the user if a signal had been forgotten when reading signals in templates (for example, {{ products }} instead of {{ products() }}).</li>
 <li>Angular now marks only components directly affected by changes in a data-bound Signal as dirty, improving performance and aligning with a more precise change detection vision.</li>
 </ul>
+
+&nbsp;</br>
+
+# How to install Angular 17?
+
+Before you rush to install the version 17, here are a few prerequisites you can’t miss.
+
+<ul>
+<li>Make sure you’ve Node.JS installed</li>
+<li>Review the documentation thoroughly</li>
+<li>Analyze how Angular 17 New Features will play out with existing dynamics</li>
+</ul>
+
+<h3>Installing and creating a new project</h3>
+
+To install Angular in the latest version on your computer, you can issue this command.
+
+<code>npm install --global @angular/cli@next</code>
+
+After installation, simply run the following command from within the folder where you want to save this project.
+
+<code>ng new my-project</code>
+
+Replace my-project with the name you choose for your project. When finished, follow the directions of your assistant to set up an application.
+
+
+<h3>Updating a project</h3>
+
+If you already have a version of Angular installed and if your project is in an obsolete version below 17, all you need to run is the ng update command. The assistant will tell you what dependencies to update in your project so that the latest version is running.
+
