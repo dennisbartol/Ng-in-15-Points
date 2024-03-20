@@ -90,3 +90,20 @@ Even if he doesn’t specify the ssr flag, the creation assistant will ask if we
 
 What’s more? Angular 17 teases the view transitions API support, guaranteeing smoother animations and an enriched user interface.
 </p>
+
+
+<p>
+<b>5. Support for Typescript 5.2</b>
+
+Angular 16 supported TypeScript up to version 5.1. The latest version overcomes the limitation, allowing support for version 5.2 of TypeScript and no lower than 4.9.3.
+
+The expanded compatibility translates into improved code readability and strengthened type safety, while enabling:
+
+<ul>
+<li>Accelerated recursive type checking</li>
+<li>Improved memory leak handling</li>
+<li>Augmented metadata capabilities through decorator programming</li>
+<li>Seamless copy arraying</li>
+<li>Comma completion</li>
+</ul>
+</p>
