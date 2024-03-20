@@ -1,4 +1,4 @@
-# Performance improvements in Angular (v) 17 : 
+# (Expected) Performance improvements in Angular (v) 17 : 
 
 
 <b>1. Performance Improvements:</b> Angular often focuses on enhancing performance with each release. Angular 17 might introduce optimizations to rendering, compilation, or bundle size reduction to improve overall application performance.
