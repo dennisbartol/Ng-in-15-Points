@@ -28,7 +28,7 @@ Look at the example below to understand how the @nglf construct makes the code s
 
 
 
-
+<p>
 <b>2. Improved performance with esbuild</b>
  
 The integration of esbuild dramatically improves the build speed and performance posture of Angular Development Services. A study of applications running on Angular 17 demonstrated an improvement of over 67% in build speed, making the latest version an even bigger drawcard for developers prioritizing efficiency. 
@@ -38,3 +38,4 @@ It’s almost effortless to switch from the traditional build system to esbuild 
 "builder" : "@angular-devkit/build-angular:browser-esbuild"
 
 On completing the transition, developers can build business solutions with maximum efficiency and minimum turnaround time. 
+</p>
