@@ -117,5 +117,12 @@ Angular 17 brings a paradigm shift in how applications are built and rendered. T
 
 Let’s explore additional Angular 17 New Features in this comprehensive roundup.
 
-Angular 17 now supports custom element bindings and providers.
-The Angular 17 release offers improved internationalization and accessibility.
+<ul>
+<li>Angular 17 now supports custom element bindings and providers.</li>
+<li>The Angular 17 release offers improved internationalization and accessibility.</li>
+<li>The View Transitions API is now supported by the router.</li>
+<li>Now animations can be loaded lazily.</li>
+<li>The ng g interceptor statement produces functional interceptors.</li>
+<li>A diagnostic now alerts the user if a signal had been forgotten when reading signals in templates (for example, {{ products }} instead of {{ products() }}).</li>
+<li>Angular now marks only components directly affected by changes in a data-bound Signal as dirty, improving performance and aligning with a more precise change detection vision.</li>
+</ul>
