@@ -43,7 +43,7 @@ On completing the transition, developers can build business solutions with maxim
 &nbsp;</br>
 
 <p>
-Enhanced deferred loading
+<b>3. Enhanced deferred loading</b>
 
 In the bouquet of Angular 17 Features, the deferred loading optimization stands out as an undisputed winner. 
 
