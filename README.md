@@ -55,7 +55,10 @@ HTML:
 <b>4. Data Binding:</b></br>
 Angular provides various types of data binding like interpolation, property binding, event binding, and two-way binding. Here's an example of interpolation:
 
-
+``` Angular
+<!-- app.component.html -->
+<h1>{{ title }}</h1>
+```
 
 
 <b>5. Directives:</b></br>
