@@ -87,6 +87,24 @@ export class DataService {
 <b>7. Routing:</b></br>
 Routing allows navigation between different components in an Angular application. Here's an example of routing configuration:
 
+``` Javascript
+// app-routing.module.ts
+import { NgModule } from '@angular/core';
+import { Routes, RouterModule } from '@angular/router';
+import { HomeComponent } from './home/home.component';
+import { AboutComponent } from './about/about.component';
+
+const routes: Routes = [
+  { path: '', component: HomeComponent },
+  { path: 'about', component: AboutComponent }
+];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+```
 
 <b>8. Forms:</b></br>
 Angular provides two approaches to handling forms: Template-driven forms and Reactive forms. Here's an example of a template-driven form:
