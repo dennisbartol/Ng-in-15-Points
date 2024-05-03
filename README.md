@@ -99,6 +99,22 @@ Angular HTTP client is used to communicate with a server to fetch or post data. 
 <b>10. Observables:</b></br>
 Observables are used extensively in Angular for handling asynchronous operations. Here's an example of using observables:
 
+``` Javascript
+// data.service.ts
+import { Injectable } from '@angular/core';
+import { Observable, of } from 'rxjs';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class DataService {
+  constructor() { }
+
+  getData(): Observable<string[]> {
+    return of(['item1', 'item2', 'item3']);
+  }
+}
+```
 
 
 <b>11. Intercomponent Communication:</b></br>
