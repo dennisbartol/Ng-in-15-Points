@@ -62,7 +62,7 @@ Angular provides various types of data binding like interpolation, property bind
 
 
 <b>5. Directives:</b></br>
-Directives are markers on a DOM element that tells Angular to do something with that DOM element. Angular provides built-in directives like ngIf, ngFor, and ngSwitch. 
+Directives are markers on a DOM element that tells Angular to do something with that DOM element. Angular provides built-in directives like `ngIf`, `ngFor`, and `ngSwitch`. 
 
 
 <b>6. Services and Dependency Injection:</b></br>
