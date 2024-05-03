@@ -33,7 +33,9 @@ To set up Angular development, you need to install Node.js and Angular CLI. Angu
 <b>3. Components and Templates:</b></br>
 Components are the building blocks of Angular applications. They consist of a TypeScript class and an HTML template. Here's an example of a simple component.</br>
 Typescript:</br>
-<code>// app.component.ts
+
+``` Javascript 
+// app.component.ts
 import { Component } from '@angular/core';
 
 @Component({
@@ -50,7 +52,7 @@ HTML:
 <code>
 &lt;!-- app.component.html --&gt;
 &lt;h1>{{ title }} &lt;/h1>
-</code>
+```
 
 <b>4. Data Binding:</b></br>
 Angular provides various types of data binding like interpolation, property binding, event binding, and two-way binding. Here's an example of interpolation:
